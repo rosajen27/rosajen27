@@ -27,3 +27,6 @@ I became a software engineer following a 6 year career in elementary education. 
 <img align="left" alt="Git" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
 <img align="left" alt="Heroku" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg">
 
+[twitter]: https://twitter.com/rosajen27
+[LinkedIn]: https://www.linkedin.com/in/rosajen27/
+[Gmail]: mailto:rosajen27@gmail.com
